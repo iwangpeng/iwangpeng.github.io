@@ -24,7 +24,7 @@ Add this to your source repositories
     compile 'com.woobi:monetization:1.3'
     
 ## AdColony
-    compile 'com.jirbo.adcolony:adcolony:2.1.3'
+    compile 'com.jirbo.adcolony:adcolony:2.2.1'
     
 ## Vungle
     compile 'com.vungle:vungle:3.2.2'
