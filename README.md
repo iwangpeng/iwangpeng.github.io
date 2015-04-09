@@ -33,3 +33,6 @@ Add this to your source repositories
 
 ## Flurry Analytics
     compile 'com.flurry.android:analytics:5.0.0'
+
+## AdMob Mediation Adapter - MoPub
+    compile 'com.mopub.mobileads.dfp.adapters:mopub-adapter:1.0.0'
