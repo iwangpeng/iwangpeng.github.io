@@ -30,3 +30,6 @@ Add this to your source repositories
     compile 'com.vungle:vungle:3.2.2'
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.squareup.dagger:dagger:1.2.2'
+
+## Flurry Analytics
+    compile 'com.flurry.android:analytics:5.0.0'
