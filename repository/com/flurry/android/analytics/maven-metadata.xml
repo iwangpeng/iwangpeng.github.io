@@ -3,10 +3,10 @@
   <groupId>com.flurry.android</groupId>
   <artifactId>analytics</artifactId>
   <versioning>
-    <release>5.0.0</release>
+    <release>5.4.0</release>
     <versions>
-      <version>5.0.0</version>
+      <version>5.4.0</version>
     </versions>
-    <lastUpdated>20150104120451</lastUpdated>
+    <lastUpdated>20150410063516</lastUpdated>
   </versioning>
 </metadata>
