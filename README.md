@@ -19,6 +19,9 @@ Add this to your source repositories
     
 ## TrialPay
     compile 'com.trialpay.android:monetization:2.2014463'
+
+## SupersonicAds
+    compile 'com.supersonic:supersonicads:6.0.0'
     
 ## Woobi (TokenAds)
     compile 'com.woobi:monetization:1.3'
