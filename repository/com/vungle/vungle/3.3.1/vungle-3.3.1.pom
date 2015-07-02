@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vungle</groupId>
   <artifactId>vungle</artifactId>
-  <version>3.2.2</version>
+  <version>3.3.1</version>
   <description>POM was created from install:install-file</description>
 </project>
