@@ -14,7 +14,7 @@ Add this to your source repositories
     compile 'com.nativex:monetization:5.3.8'
     compile 'com.google.code.gson:gson:2.2.4'
     
-## SponsorPay
+## Fyber
     compile 'com.sponsorpay:monetization:7.0.1'
     
 ## TrialPay
