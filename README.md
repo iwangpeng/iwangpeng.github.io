@@ -23,7 +23,7 @@ Add this to your source repositories
 ## SupersonicAds
     compile 'com.supersonic:supersonicads:6.0.0'
     
-## Woobi (TokenAds)
+## Woobi
     compile 'com.woobi:monetization:1.3'
     
 ## AdColony
