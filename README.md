@@ -15,7 +15,21 @@ Add this to your source repositories
     compile 'com.google.code.gson:gson:2.2.4'
     
 ## Fyber
-    compile 'com.sponsorpay:monetization:7.0.1'
+
+Fyber has added support for Gradle/Maven integrations since version 7.1.0.
+
+See http://developer.fyber.com/content/current/android/basics/downloads/
+
+    repositories {
+        maven {
+            name "Fyber's maven repo"
+            url "https://fyber.bintray.com/maven"
+        }
+    }
+
+    dependencies {
+        compile 'com.fyber:fyber-sdk:8.0.0'
+    }
     
 ## TrialPay
     compile 'com.trialpay.android:monetization:2.2014463'
