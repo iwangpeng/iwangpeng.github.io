@@ -1,9 +1,3 @@
-# Important
-
-Remove `com.vungle:vungle:3.2.2`, this version contains a rare vulnerability that could affect certain users. See https://support.vungle.com/hc/en-us/articles/205142650
-
-Please use the latest version.
-
 # Gradle
 
 Add this to your source repositories
