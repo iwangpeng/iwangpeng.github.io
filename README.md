@@ -11,8 +11,11 @@ Add this to your source repositories
     compile 'com.aarki:monetization:3.0'
 
 ## NativeX
-    compile 'com.nativex:monetization:5.3.8'
-    compile 'com.google.code.gson:gson:2.2.4'
+
+**android:minSdkVersion = 11**
+
+    compile 'com.nativex:monetization:5.5.1'
+    compile 'com.google.code.gson:gson:2.3.1'
     
 ## Fyber
 
