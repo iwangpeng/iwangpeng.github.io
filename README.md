@@ -50,7 +50,10 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
     compile 'com.jirbo.adcolony:adcolony:2.3.0'
     
 ## Vungle
-    compile 'com.vungle:vungle:3.3.1'
+
+**android:minSdkVersion = 9**
+
+    compile 'com.vungle:vungle:3.3.2'
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.squareup.dagger:dagger:1.2.2'
 
