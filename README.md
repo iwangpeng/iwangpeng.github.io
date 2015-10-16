@@ -44,7 +44,10 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
     compile 'com.woobi:monetization:1.3'
     
 ## AdColony
-    compile 'com.jirbo.adcolony:adcolony:2.2.1'
+
+**android:minSdkVersion = 10**
+
+    compile 'com.jirbo.adcolony:adcolony:2.3.0'
     
 ## Vungle
     compile 'com.vungle:vungle:3.3.1'
