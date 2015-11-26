@@ -62,3 +62,9 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
 
 ## AdMob Mediation Adapter - MoPub
     compile 'com.mopub.mobileads.dfp.adapters:mopub-adapter:1.0.0'
+
+## CrossWalk project
+
+See https://crosswalk-project.org/
+
+    compile 'org.xwalk:xwalk_core_library:15.44.384.13'
