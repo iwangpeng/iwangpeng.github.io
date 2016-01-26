@@ -14,7 +14,7 @@ Add this to your source repositories
 
 **android:minSdkVersion = 11**
 
-    compile 'com.nativex:monetization:5.5.1'
+    compile 'com.nativex:monetization:5.5.6'
     compile 'com.google.code.gson:gson:2.3.1'
     
 ## Fyber
