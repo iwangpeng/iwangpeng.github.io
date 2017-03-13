@@ -57,6 +57,9 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.squareup.dagger:dagger:1.2.2'
 
+## AppLovin
+    compile 'com.applovin:applovin:6.4.2'
+
 ## Flurry Analytics
     compile 'com.flurry.android:analytics:5.4.0'
 
