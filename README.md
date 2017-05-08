@@ -36,6 +36,9 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
     
 ## TrialPay
     compile 'com.trialpay.android:monetization:2.2014463'
+    
+## Kiip
+    compile 'me.kiip.sdk:kiip:2.3.1'
 
 ## SupersonicAds
     compile 'com.supersonic:supersonicads:6.0.0'
