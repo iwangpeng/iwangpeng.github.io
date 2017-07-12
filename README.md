@@ -35,7 +35,7 @@ See http://developer.fyber.com/content/current/android/basics/downloads/
     }
     
 ## TrialPay
-    compile 'com.trialpay.android:monetization:2.2014463'
+    compile 'com.trialpay.android:trialpay:3.3.2016110'
     
 ## Kiip
     compile 'me.kiip.sdk:kiip:2.3.1'
